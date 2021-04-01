@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 Want to contact me : anubhav283203@@gmail.com
 - ⚡ Fun fact: I know the stuff but hardly get good marks in examination 😂.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=abd8126" alt="abd8126"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abd8126" alt="abd8126"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd8126&show_icons=true&locale=en&layout=compact" alt="abd8126" /></p>
 
