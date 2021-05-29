@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 -->
 ### Hi everyone 👋, I'm Anubhav Bharadwaj
 
-### Hello, I am Yash Indane
 I always keep myself updated with the latest technologies used in the industry . My areas of interest are Cloud Computing, Programming, Machine Learning, Artificial Intelligence, DevOps, MlOps, Big Data etc. I contribute on Github as well as I have also contributed various roles on Ansible Galaxy and container images on Docker Hub.
 
 - [Ansible Galaxy Profile](https://galaxy.ansible.com/my-content/namespaces)
