@@ -26,14 +26,7 @@ I always keep myself updated with the latest technologies used in the industry .
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd8126&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abd8126&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
+![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=abd8126&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=abd8126" alt="abd8126"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd8126&show_icons=true&locale=en&layout=compact" alt="abd8126" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abd8126&show_icons=true&locale=en" alt="abd8126" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abd8126&" alt=abd8126" /></p>
 
